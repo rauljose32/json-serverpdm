@@ -1,0 +1,48 @@
+[
+    {
+        "nome":"Ana",
+        "ano_nascimento": 1984,
+        "notas": {
+            "n1": 7,
+            "n2": 5,
+            "n3": 4 
+            }
+    },
+    {
+        "nome":"Raul",
+        "ano_nascimento": 1996,
+        "notas": {
+            "n1": 8,
+            "n2": 6,
+            "n3": 7 
+            }
+    },
+    {
+        "nome":"Bruna",
+        "ano_nascimento": 1998,
+        "notas": {
+            "n1": 9,
+            "n2": 8,
+            "n3": 6 
+            }
+    },
+    {
+        "nome":"Bob",
+        "ano_nascimento": 2022,
+        "notas": {
+            "n1": 8,
+            "n2": 7,
+            "n3": 9 
+            }
+    },
+    {
+        "nome":"Beni",
+        "ano_nascimento": 2022,
+        "notas": {
+            "n1": 9,
+            "n2": 9,
+            "n3": 9 
+            }
+    }
+
+]
