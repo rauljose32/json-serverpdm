@@ -22,8 +22,8 @@
             "nome":"Bruna",
             "ano_nascimento": 1998,
             "notas": {
-                "n1": 9,
-                "n2": 8,
+                "n1": 5,
+                "n2": 6,
                 "n3": 6 
                 }
         },
@@ -40,9 +40,9 @@
             "nome":"Beni",
             "ano_nascimento": 2013,
             "notas": {
-                "n1": 9,
-                "n2": 9,
-                "n3": 9 
+                "n1": 3,
+                "n2": 4,
+                "n3": 5 
                 }
         }
     ]
